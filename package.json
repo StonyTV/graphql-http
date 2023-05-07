@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/HydreIO/graphql-http#readme",
   "dependencies": {
-    "graphql": "^16.6.0",
+    "graphql": "^15.8.0",
     "node-fetch": "^3.3.1"
   },
   "devDependencies": {
